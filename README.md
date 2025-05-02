@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A Level 1 rocket project and an app to improve education access in marginalized communities.<br>🎉 I’m looking to collaborate on: Tech solutions that intersect with social justice, and education.<br>🌱 I’m currently learning: Swift coding, advanced calculus concepts, and the integration of computer science with physics.<br>💬 Ask me about: Nuclear medicine, mentorship in marginalized communities, and using tech for social good.
+🔭 I’m currently working on: A Level 1 rocket project and an app to improve education access in marginalized communities.<br>🎉 I’m looking to collaborate on: Tech solutions that intersect with social justice, and education.<br>🌱 I’m currently learning: Swift coding, advanced calculus concepts, and the integration of computer science with physics.<br>💬 Ask me about: Mentorship in marginalized communities, and using tech for social good.
 
 
 # 💻 Tech Stack:
